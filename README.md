@@ -1,15 +1,15 @@
-# A 3D Map of the Local Bubble's Magnetic Field
+# The Local Bubble is a Local Chimney
 
-Interactive figures from O'Neill et al. (2023): 
+Interactive figures from O'Neill et al. (2024): 
 
-https://theo-oneill.github.io/magneticlocalbubble/
-
-
+https://theo-oneill.github.io/localbubble/
 
 ### Credits to:
 
-* [Sergeev et al. (2020)](https://github.com/dennissergeev/exoconvection-apj-2020/tree/master) for the theme used to power this website
+* [K3D-jupyter](https://k3d-jupyter.org) 
 
 * [PyVista](https://docs.pyvista.org/version/stable/) 
 
 *  [Plotly](https://plotly.com)
+
+* [Sergeev et al. (2020)](https://github.com/dennissergeev/exoconvection-apj-2020/tree/master) for the theme used to power this website
