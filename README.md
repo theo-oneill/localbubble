@@ -4,7 +4,7 @@ Interactive figures from O'Neill et al. (2024):
 
 https://theo-oneill.github.io/localbubble/
 
-### Credits to:
+### Thanks to:
 
 * [K3D-jupyter](https://k3d-jupyter.org) 
 
