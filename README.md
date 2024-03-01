@@ -8,8 +8,4 @@ https://theo-oneill.github.io/localbubble/
 
 * [K3D-jupyter](https://k3d-jupyter.org) 
 
-* [PyVista](https://docs.pyvista.org/version/stable/) 
-
-*  [Plotly](https://plotly.com)
-
 * [Sergeev et al. (2020)](https://github.com/dennissergeev/exoconvection-apj-2020/tree/master) for the theme used to power this website
